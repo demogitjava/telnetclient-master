@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.crimson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/org.apache.crimson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jta20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jdom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/jar/jdom.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/jar/org.apache.crimson.jar!/" recursive="false" />
+  </library>
+</component>
